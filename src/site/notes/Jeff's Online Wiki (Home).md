@@ -13,7 +13,7 @@ Hi there! Welcome to my digital garden. I like to take notes on a wide variety o
  [[Math/Arithmetic MOC\|Arithmetic MOC]]
  [[Math/Calculus MOC\|Calculus MOC]]
  [[Math/Geometry MOC\|Geometry MOC]]
- [[Math/Number Theory MOC\|Number Theory MOC]]
+ [[Math/Number Theory/What is Number Theory\|Number Theory]]
  [[Math/Probability Theory MOC\|Probability Theory MOC]]
  [[Math/Statistics MOC\|Statistics MOC]]
  [[Math/Trigonometry MOC\|Trigonometry MOC]]
