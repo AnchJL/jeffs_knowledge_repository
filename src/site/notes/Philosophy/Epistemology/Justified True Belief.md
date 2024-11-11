@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/justified-true-belief/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Justified True Belief/","created":"2024-06-23T21:29:08.615-04:00","updated":"2024-11-11T00:39:15.181-05:00"}
 ---
 
 

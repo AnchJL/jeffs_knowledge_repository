@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/knowledge-first-approach/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Knowledge-First Approach/","created":"2024-07-30T00:59:37.364-04:00","updated":"2024-11-11T00:40:22.784-05:00"}
 ---
 
 #Philosophy/Epistemology 

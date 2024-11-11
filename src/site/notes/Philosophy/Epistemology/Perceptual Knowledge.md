@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/perceptual-knowledge/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Perceptual Knowledge/","created":"2024-07-15T16:10:21.948-04:00","updated":"2024-11-11T00:42:01.510-05:00"}
 ---
 
 #Philosophy/Epistemology 

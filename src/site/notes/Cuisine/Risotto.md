@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cuisine/risotto/"}
+{"dg-publish":true,"permalink":"/Cuisine/Risotto/","created":"2024-07-07T00:28:46.276-04:00","updated":"2024-11-10T20:35:35.305-05:00"}
 ---
 
 Ingredients

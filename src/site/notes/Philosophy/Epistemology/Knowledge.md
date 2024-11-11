@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/knowledge/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Knowledge/","created":"2024-06-23T20:58:23.377-04:00","updated":"2024-11-11T00:39:43.918-05:00"}
 ---
 
 #Philosophy/Epistemology 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/infinitism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Infinitism/","created":"2024-07-07T02:42:21.723-04:00","updated":"2024-11-11T00:37:57.132-05:00"}
 ---
 
 

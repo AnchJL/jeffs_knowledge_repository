@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/probability-theory/conditional-probability/"}
+{"dg-publish":true,"permalink":"/Math/Probability Theory/Conditional  Probability/","created":"2024-11-04T00:00:57.427-05:00","updated":"2024-11-10T21:49:23.749-05:00"}
 ---
 
 

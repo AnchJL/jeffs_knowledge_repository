@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/epistemic-internalism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Epistemic Internalism/","created":"2024-07-10T23:54:56.415-04:00","updated":"2024-11-11T00:18:23.225-05:00"}
 ---
 
 

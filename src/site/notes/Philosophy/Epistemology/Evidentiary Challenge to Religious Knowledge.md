@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/evidentiary-challenge-to-religious-knowledge/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Evidentiary Challenge to Religious Knowledge/","created":"2024-08-19T03:03:17.494-04:00","updated":"2024-11-11T00:20:58.349-05:00"}
 ---
 
 

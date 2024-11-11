@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/statistics/types-of-variables/"}
+{"dg-publish":true,"permalink":"/Math/Statistics/Types of Variables/","created":"2024-11-09T20:43:29.779-05:00","updated":"2024-11-10T23:56:35.645-05:00"}
 ---
 
 

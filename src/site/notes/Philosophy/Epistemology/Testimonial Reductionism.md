@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/testimonial-reductionism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Testimonial Reductionism/","created":"2024-08-02T22:39:17.620-04:00","updated":"2024-11-11T00:47:16.388-05:00"}
 ---
 
 #Philosophy/Epistemology 

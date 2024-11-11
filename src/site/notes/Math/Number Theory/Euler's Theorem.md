@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/euler-s-theorem/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Euler's Theorem/","created":"2024-11-03T00:37:58.308-04:00","updated":"2024-11-10T21:05:04.580-05:00"}
 ---
 
 

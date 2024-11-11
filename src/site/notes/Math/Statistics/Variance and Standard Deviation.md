@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/statistics/variance-and-standard-deviation/"}
+{"dg-publish":true,"permalink":"/Math/Statistics/Variance and Standard Deviation/","created":"2024-11-07T00:18:19.029-05:00","updated":"2024-11-10T22:59:04.993-05:00"}
 ---
 
 

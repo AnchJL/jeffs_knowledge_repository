@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/indirect-realism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Indirect Realism/","created":"2024-07-15T16:49:15.485-04:00","updated":"2024-11-11T00:37:34.074-05:00"}
 ---
 
 #Philosophy/Epistemology 

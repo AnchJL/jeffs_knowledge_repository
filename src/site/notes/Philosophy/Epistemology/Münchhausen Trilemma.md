@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/muenchhausen-trilemma/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Münchhausen Trilemma/","created":"2024-07-04T00:43:48.275-04:00","updated":"2024-11-11T00:41:16.337-05:00"}
 ---
 
 

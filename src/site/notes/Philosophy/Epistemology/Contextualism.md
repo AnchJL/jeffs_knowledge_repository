@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/contextualism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Contextualism/","created":"2024-07-10T23:56:36.098-04:00","updated":"2024-11-11T00:14:18.552-05:00"}
 ---
 
 

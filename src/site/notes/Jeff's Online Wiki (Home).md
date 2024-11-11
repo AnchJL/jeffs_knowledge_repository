@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jeff-s-online-wiki-home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Jeff's Online Wiki (Home)/","tags":["gardenEntry"],"created":"2024-11-10T18:43:59.484-05:00","updated":"2024-11-11T14:02:09.949-05:00"}
 ---
 
 Hi there! Welcome to my digital garden. I like to take notes on a wide variety of topics. Browse to your heart's content!

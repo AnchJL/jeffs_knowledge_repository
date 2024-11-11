@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/statistics/percentiles/"}
+{"dg-publish":true,"permalink":"/Math/Statistics/Percentiles/","created":"2024-11-10T17:38:03.373-05:00","updated":"2024-11-11T15:33:51.192-05:00"}
 ---
 
 #Math/Statistics 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/probability-theory/the-monty-hall-problem/"}
+{"dg-publish":true,"permalink":"/Math/Probability Theory/The Monty Hall Problem/","created":"2024-11-03T13:20:39.626-05:00","updated":"2024-11-10T21:50:25.191-05:00"}
 ---
 
 

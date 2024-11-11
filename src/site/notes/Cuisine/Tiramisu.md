@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cuisine/tiramisu/"}
+{"dg-publish":true,"permalink":"/Cuisine/Tiramisu/","created":"2024-08-24T16:50:59.715-04:00","updated":"2024-11-10T20:35:46.697-05:00"}
 ---
 
 Ingredients

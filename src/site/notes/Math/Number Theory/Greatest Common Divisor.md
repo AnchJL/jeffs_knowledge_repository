@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/greatest-common-divisor/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Greatest Common Divisor/","created":"2024-10-26T21:52:53.560-04:00","updated":"2024-11-10T21:02:12.602-05:00"}
 ---
 
 

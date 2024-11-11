@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/diophantine-equations/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Diophantine Equations/","created":"2024-10-26T01:51:11.955-04:00","updated":"2024-11-10T21:33:20.481-05:00"}
 ---
 
 

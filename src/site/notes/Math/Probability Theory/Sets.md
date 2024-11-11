@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/probability-theory/sets/"}
+{"dg-publish":true,"permalink":"/Math/Probability Theory/Sets/","created":"2024-11-03T14:17:53.214-05:00","updated":"2024-11-10T23:55:04.900-05:00"}
 ---
 
 

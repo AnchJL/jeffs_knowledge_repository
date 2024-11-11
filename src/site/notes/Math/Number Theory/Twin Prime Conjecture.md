@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/twin-prime-conjecture/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Twin Prime Conjecture/","created":"2024-11-03T01:08:17.517-05:00","updated":"2024-11-10T21:03:02.527-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/epistemic-closure/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Epistemic Closure/","created":"2024-06-24T21:33:12.559-04:00","updated":"2024-11-11T00:17:26.551-05:00"}
 ---
 
 

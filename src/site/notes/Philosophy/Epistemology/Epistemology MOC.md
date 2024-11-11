@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/epistemology-moc/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Epistemology MOC/","created":"2024-06-10T20:47:54.560-04:00","updated":"2024-11-11T14:04:42.877-05:00"}
 ---
 
 

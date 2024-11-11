@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/particularism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Particularism/","created":"2024-07-06T14:55:34.343-04:00","updated":"2024-11-11T00:41:39.394-05:00"}
 ---
 
 #Philosophy/Epistemology 

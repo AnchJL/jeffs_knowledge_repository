@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/solving-linear-congruences/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Solving Linear Congruences/","created":"2024-11-01T01:23:47.227-04:00","updated":"2024-11-10T21:03:35.700-05:00"}
 ---
 
 

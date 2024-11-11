@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/congruence-relation/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Congruence Relation/","created":"2024-10-13T15:49:45.232-04:00","updated":"2024-11-10T21:33:18.846-05:00"}
 ---
 
 

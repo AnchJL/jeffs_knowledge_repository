@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/empiricism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Empiricism/","created":"2024-07-08T02:04:59.473-04:00","updated":"2024-11-11T00:17:09.007-05:00"}
 ---
 
 

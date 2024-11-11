@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/prime-numbers/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Prime Numbers/","created":"2024-10-12T14:41:17.386-04:00","updated":"2024-11-10T20:54:57.245-05:00"}
 ---
 
 #Math/NumberTheory 

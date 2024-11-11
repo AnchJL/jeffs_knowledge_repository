@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/fermat-s-little-theorem-wip/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Fermat's Little Theorem (WIP)/","created":"2024-10-14T10:31:08.885-04:00","updated":"2024-11-10T21:04:36.818-05:00"}
 ---
 
 

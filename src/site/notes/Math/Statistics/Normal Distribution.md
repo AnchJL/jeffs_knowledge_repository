@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/statistics/normal-distribution/"}
+{"dg-publish":true,"permalink":"/Math/Statistics/Normal Distribution/","created":"2024-11-09T22:56:33.211-05:00","updated":"2024-11-11T14:44:08.740-05:00"}
 ---
 
 

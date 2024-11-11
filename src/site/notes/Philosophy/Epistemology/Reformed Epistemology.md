@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/reformed-epistemology/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Reformed Epistemology/","created":"2024-08-23T23:34:18.611-04:00","updated":"2024-11-11T00:44:11.998-05:00"}
 ---
 
 #Philosophy/Epistemology 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/rationalism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Rationalism/","created":"2024-07-08T02:13:35.979-04:00","updated":"2024-11-11T00:43:48.417-05:00"}
 ---
 
 #Philosophy/Epistemology 

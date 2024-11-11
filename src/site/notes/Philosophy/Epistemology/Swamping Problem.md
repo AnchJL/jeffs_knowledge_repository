@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/swamping-problem/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Swamping Problem/","created":"2024-07-10T00:46:34.083-04:00","updated":"2024-11-11T00:46:59.947-05:00"}
 ---
 
 #Philosophy/Epistemology 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/fideism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Fideism/","created":"2024-08-20T01:11:28.704-04:00","updated":"2024-11-11T00:21:34.137-05:00"}
 ---
 
 #Philosophy/Religion 

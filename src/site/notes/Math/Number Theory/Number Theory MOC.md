@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/number-theory-moc/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Number Theory MOC/","created":"2024-11-02T16:04:55.556-04:00","updated":"2024-11-10T21:43:30.655-05:00"}
 ---
 
 #Math/NumberTheory 

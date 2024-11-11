@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/problem-of-the-criterion/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Problem of the Criterion/","created":"2024-07-04T00:47:06.209-04:00","updated":"2024-11-11T00:43:09.426-05:00"}
 ---
 
 #Philosophy/Epistemology 

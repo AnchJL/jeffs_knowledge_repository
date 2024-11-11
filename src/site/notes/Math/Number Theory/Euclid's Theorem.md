@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/euclid-s-theorem/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Euclid's Theorem/","created":"2024-10-13T02:17:50.269-04:00","updated":"2024-11-10T20:55:19.725-05:00"}
 ---
 
 

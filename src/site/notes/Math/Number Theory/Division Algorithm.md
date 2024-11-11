@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/division-algorithm/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Division Algorithm/","created":"2024-10-21T23:57:09.280-04:00","updated":"2024-11-10T21:33:38.327-05:00"}
 ---
 
 

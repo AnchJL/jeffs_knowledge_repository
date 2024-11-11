@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/divisibility/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Divisibility/","created":"2024-10-21T18:00:26.822-04:00","updated":"2024-11-10T20:54:15.455-05:00"}
 ---
 
 #Math/NumberTheory 

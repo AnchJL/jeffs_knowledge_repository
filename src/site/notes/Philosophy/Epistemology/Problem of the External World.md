@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/problem-of-the-external-world/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Problem of the External World/","created":"2024-07-14T01:54:12.914-04:00","updated":"2024-11-11T00:43:26.004-05:00"}
 ---
 
 

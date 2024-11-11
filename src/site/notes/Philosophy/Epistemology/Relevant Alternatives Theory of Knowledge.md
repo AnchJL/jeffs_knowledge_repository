@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/relevant-alternatives-theory-of-knowledge/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Relevant Alternatives Theory of Knowledge/","created":"2024-07-10T23:59:00.628-04:00","updated":"2024-11-11T00:44:52.242-05:00"}
 ---
 
 #Philosophy/Epistemology 

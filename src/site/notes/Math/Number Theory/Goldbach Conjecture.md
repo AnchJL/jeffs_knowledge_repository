@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/goldbach-conjecture/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Goldbach Conjecture/","created":"2024-11-03T01:07:54.077-05:00","updated":"2024-11-10T21:02:53.959-05:00"}
 ---
 
 

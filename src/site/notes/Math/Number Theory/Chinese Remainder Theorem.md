@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/chinese-remainder-theorem/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Chinese Remainder Theorem/","created":"2024-10-17T01:23:42.560-04:00","updated":"2024-11-10T21:03:44.835-05:00"}
 ---
 
 

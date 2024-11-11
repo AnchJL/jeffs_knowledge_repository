@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/statistics/descriptive-vs-inferential-statistics/"}
+{"dg-publish":true,"permalink":"/Math/Statistics/Descriptive vs Inferential Statistics/","created":"2024-11-09T21:52:49.710-05:00","updated":"2024-11-11T00:04:09.615-05:00"}
 ---
 
 

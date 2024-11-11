@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/causal-theory-of-knowledge/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Causal Theory of Knowledge/","created":"2024-07-11T01:15:05.768-04:00","updated":"2024-11-11T00:16:52.317-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/statistics-moc/"}
+{"dg-publish":true,"permalink":"/Math/Statistics MOC/","created":"2024-11-09T13:43:28.268-05:00","updated":"2024-11-10T23:05:30.953-05:00"}
 ---
 
 

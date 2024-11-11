@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/epistemic-injustice/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Epistemic Injustice/","created":"2024-08-28T23:32:06.193-04:00","updated":"2024-11-11T00:18:07.672-05:00"}
 ---
 
 

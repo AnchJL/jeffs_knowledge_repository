@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/euclidean-algorithm/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Euclidean Algorithm/","created":"2024-10-23T00:50:45.396-04:00","updated":"2024-11-10T21:02:21.682-05:00"}
 ---
 
 

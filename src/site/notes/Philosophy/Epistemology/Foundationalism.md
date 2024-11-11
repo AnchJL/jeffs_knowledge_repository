@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/foundationalism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Foundationalism/","created":"2024-07-07T04:11:13.965-04:00","updated":"2024-11-11T00:21:48.430-05:00"}
 ---
 
 

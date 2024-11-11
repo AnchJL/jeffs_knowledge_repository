@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/probability-theory/addition-rule-for-probability/"}
+{"dg-publish":true,"permalink":"/Math/Probability Theory/Addition Rule for Probability/","created":"2024-11-04T20:19:24.333-05:00","updated":"2024-11-10T23:49:24.488-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/statistics/binomial-distribution/"}
+{"dg-publish":true,"permalink":"/Math/Statistics/Binomial Distribution/","created":"2024-11-10T15:24:54.619-05:00","updated":"2024-11-10T23:55:49.094-05:00"}
 ---
 
 

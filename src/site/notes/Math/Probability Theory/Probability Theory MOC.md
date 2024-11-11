@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/probability-theory/probability-theory-moc/"}
+{"dg-publish":true,"permalink":"/Math/Probability Theory/Probability Theory MOC/","created":"2024-11-03T14:06:20.350-05:00","updated":"2024-11-10T21:49:46.622-05:00"}
 ---
 
 

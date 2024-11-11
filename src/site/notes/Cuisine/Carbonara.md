@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cuisine/carbonara/"}
+{"dg-publish":true,"permalink":"/Cuisine/Carbonara/","created":"2024-07-28T23:25:55.734-04:00","updated":"2024-11-10T20:35:22.738-05:00"}
 ---
 
 Ingredients:

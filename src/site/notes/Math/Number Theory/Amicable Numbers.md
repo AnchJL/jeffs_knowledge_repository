@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/amicable-numbers/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Amicable Numbers/","created":"2024-10-15T23:45:28.820-04:00","updated":"2024-11-10T21:43:58.450-05:00"}
 ---
 
 

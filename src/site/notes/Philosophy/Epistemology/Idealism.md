@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/idealism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Idealism/","created":"2024-07-15T16:49:12.951-04:00","updated":"2024-11-11T00:23:03.342-05:00"}
 ---
 
 

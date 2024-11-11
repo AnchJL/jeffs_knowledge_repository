@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/credulism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Credulism/","created":"2024-08-02T22:43:15.848-04:00","updated":"2024-11-11T00:16:48.151-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/testimony/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Testimony/","created":"2024-07-22T01:11:11.207-04:00","updated":"2024-11-11T00:47:38.051-05:00"}
 ---
 
 #Philosophy/Epistemology 

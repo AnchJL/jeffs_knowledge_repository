@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/methodism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Methodism/","created":"2024-07-06T14:52:16.155-04:00","updated":"2024-11-11T00:40:51.954-05:00"}
 ---
 
 #Philosophy/Epistemology 

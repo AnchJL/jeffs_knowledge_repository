@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/a-priori-vs-a-posteriori-knowledge/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/A Priori vs A Posteriori Knowledge/","created":"2024-07-08T13:09:21.802-04:00","updated":"2024-11-11T00:16:54.893-05:00"}
 ---
 
 

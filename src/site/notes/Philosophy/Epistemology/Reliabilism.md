@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/reliabilism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Reliabilism/","created":"2024-07-10T00:50:29.981-04:00","updated":"2024-11-11T00:45:24.912-05:00"}
 ---
 
 

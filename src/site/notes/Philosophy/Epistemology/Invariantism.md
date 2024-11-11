@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/invariantism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Invariantism/","created":"2024-07-11T22:41:12.828-04:00","updated":"2024-11-11T00:38:22.757-05:00"}
 ---
 
 

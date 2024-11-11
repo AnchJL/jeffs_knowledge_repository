@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/epistemic-externalism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Epistemic Externalism/","created":"2024-07-12T22:29:17.891-04:00","updated":"2024-11-11T00:17:48.416-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/fundamental-theorem-of-arithmetic/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Fundamental Theorem of Arithmetic/","created":"2024-10-12T15:11:21.882-04:00","updated":"2024-11-10T21:03:56.149-05:00"}
 ---
 
 

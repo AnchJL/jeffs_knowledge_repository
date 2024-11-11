@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/ignorance/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Ignorance/","created":"2024-09-01T14:18:00.918-04:00","updated":"2024-11-11T00:23:37.595-05:00"}
 ---
 
 

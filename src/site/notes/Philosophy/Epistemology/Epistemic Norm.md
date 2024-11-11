@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/epistemic-norm/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Epistemic Norm/","created":"2024-07-13T20:42:20.513-04:00","updated":"2024-11-11T00:18:43.868-05:00"}
 ---
 
 #Philosophy/Epistemology 

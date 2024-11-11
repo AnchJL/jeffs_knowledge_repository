@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/modular-multiplicative-inverse/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Modular Multiplicative Inverse/","created":"2024-11-02T20:33:53.979-04:00","updated":"2024-11-10T21:03:27.716-05:00"}
 ---
 
 

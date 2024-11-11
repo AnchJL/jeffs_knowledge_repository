@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/pythagorean-triple/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Pythagorean Triple/","created":"2024-10-26T17:55:21.594-04:00","updated":"2024-11-10T21:02:36.667-05:00"}
 ---
 
 

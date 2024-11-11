@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/probability-theory/what-is-probability/"}
+{"dg-publish":true,"permalink":"/Math/Probability Theory/What is Probability/","created":"2024-11-03T01:22:52.213-05:00","updated":"2024-11-10T21:48:48.836-05:00"}
 ---
 
 

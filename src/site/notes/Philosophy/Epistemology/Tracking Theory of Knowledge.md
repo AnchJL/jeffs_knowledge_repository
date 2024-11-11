@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/tracking-theory-of-knowledge/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Tracking Theory of Knowledge/","created":"2024-07-14T01:12:23.749-04:00","updated":"2024-11-11T00:47:55.948-05:00"}
 ---
 
 #Philosophy/Epistemology 

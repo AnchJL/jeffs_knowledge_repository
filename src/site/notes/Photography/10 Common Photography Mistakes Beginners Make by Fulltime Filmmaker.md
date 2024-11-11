@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/photography/10-common-photography-mistakes-beginners-make-by-fulltime-filmmaker/"}
+{"dg-publish":true,"permalink":"/Photography/10 Common Photography Mistakes Beginners Make by Fulltime Filmmaker/","created":"2024-08-18T21:14:18.145-04:00","updated":"2024-11-10T23:08:08.543-05:00"}
 ---
 
 

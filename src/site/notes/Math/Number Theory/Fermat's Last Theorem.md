@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/fermat-s-last-theorem/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Fermat's Last Theorem/","created":"2024-10-13T01:48:35.644-04:00","updated":"2024-11-10T21:04:22.265-05:00"}
 ---
 
 

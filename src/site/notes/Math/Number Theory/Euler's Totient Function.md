@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/euler-s-totient-function/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Euler's Totient Function/","created":"2024-10-27T01:24:06.904-04:00","updated":"2024-11-10T21:04:45.418-05:00"}
 ---
 
 

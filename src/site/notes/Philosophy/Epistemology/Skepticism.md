@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/skepticism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Skepticism/","created":"2024-07-03T01:20:26.194-04:00","updated":"2024-11-11T00:46:10.265-05:00"}
 ---
 
 

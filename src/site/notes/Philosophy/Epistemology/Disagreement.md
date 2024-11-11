@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/disagreement/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Disagreement/","created":"2024-08-16T01:41:50.708-04:00","updated":"2024-11-11T00:15:46.471-05:00"}
 ---
 
 

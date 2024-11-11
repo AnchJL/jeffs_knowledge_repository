@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/coherentism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Coherentism/","created":"2024-07-07T02:45:01.868-04:00","updated":"2024-11-11T00:13:55.041-05:00"}
 ---
 
 

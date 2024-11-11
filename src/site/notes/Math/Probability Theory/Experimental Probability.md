@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/probability-theory/experimental-probability/"}
+{"dg-publish":true,"permalink":"/Math/Probability Theory/Experimental Probability/","created":"2024-11-09T10:38:17.953-05:00","updated":"2024-11-10T21:49:33.597-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/transcendental-idealism/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Transcendental Idealism/","created":"2024-07-22T01:27:36.916-04:00","updated":"2024-11-11T00:48:26.702-05:00"}
 ---
 
 #Philosophy/Epistemology 

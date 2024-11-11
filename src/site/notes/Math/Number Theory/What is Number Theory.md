@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/number-theory/what-is-number-theory/"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/What is Number Theory/","created":"2024-10-12T14:51:06.698-04:00","updated":"2024-11-10T20:51:55.803-05:00"}
 ---
 
 #Math/NumberTheory 

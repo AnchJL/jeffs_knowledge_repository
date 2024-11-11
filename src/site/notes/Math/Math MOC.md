@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/math-moc/"}
+{"dg-publish":true,"permalink":"/Math/Math MOC/","created":"2024-09-28T12:03:22.833-04:00","updated":"2024-11-10T20:53:54.631-05:00"}
 ---
 
 #Math 

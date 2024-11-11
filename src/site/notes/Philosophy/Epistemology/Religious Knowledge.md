@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/religious-knowledge/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Religious Knowledge/","created":"2024-08-16T01:39:08.954-04:00","updated":"2024-11-11T00:45:42.630-05:00"}
 ---
 
 #Philosophy/Epistemology 

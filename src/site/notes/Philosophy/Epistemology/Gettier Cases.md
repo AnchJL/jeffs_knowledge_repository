@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/gettier-cases/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Gettier Cases/","created":"2024-06-23T21:25:50.265-04:00","updated":"2024-11-11T00:22:24.737-05:00"}
 ---
 
 

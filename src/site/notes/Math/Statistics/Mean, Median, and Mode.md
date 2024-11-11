@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/statistics/mean-median-and-mode/"}
+{"dg-publish":true,"permalink":"/Math/Statistics/Mean, Median, and Mode/","created":"2024-11-06T21:26:24.190-05:00","updated":"2024-11-10T22:58:40.498-05:00"}
 ---
 
 

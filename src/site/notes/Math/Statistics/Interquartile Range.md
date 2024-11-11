@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/statistics/interquartile-range/"}
+{"dg-publish":true,"permalink":"/Math/Statistics/Interquartile Range/","created":"2024-11-07T22:55:52.188-05:00","updated":"2024-11-11T00:04:14.886-05:00"}
 ---
 
 

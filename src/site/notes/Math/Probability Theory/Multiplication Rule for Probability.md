@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/probability-theory/multiplication-rule-for-probability/"}
+{"dg-publish":true,"permalink":"/Math/Probability Theory/Multiplication Rule for Probability/","created":"2024-11-04T21:52:56.788-05:00","updated":"2024-11-10T21:49:14.738-05:00"}
 ---
 
 

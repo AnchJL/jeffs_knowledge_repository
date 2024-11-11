@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/epistemology/social-epistemology/"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Social Epistemology/","created":"2024-07-22T01:05:30.802-04:00","updated":"2024-11-11T00:46:37.871-05:00"}
 ---
 
 #Philosophy/Epistemology 

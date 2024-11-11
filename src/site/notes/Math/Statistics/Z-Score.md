@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/statistics/z-score/"}
+{"dg-publish":true,"permalink":"/Math/Statistics/Z-Score/","created":"2024-11-09T17:06:30.024-05:00","updated":"2024-11-10T22:59:14.537-05:00"}
 ---
 
 
