@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/philosophy/epistemology/tracking-theory-of-knowledge/"}
 ---
 
-
 #Philosophy/Epistemology 
 
 The tracking theory of knowledge was proposed by the American philosopher, Robert Nozick, in response to the problem posed by [[Philosophy/Epistemology/Gettier Cases\|Gettier Cases]]. According to Nozick's tracking theory, an agent S knows P if and only if all of the conditions below are met:

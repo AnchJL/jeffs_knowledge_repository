@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/philosophy/epistemology/virtue-epistemology/"}
 ---
 
-
 #Philosophy/Epistemology 
 
 Virtue epistemology is the position that knowledge is true beliefs gained through an agent's reliable use of their epistemic virtues or cognitive faculties. This position is the epistemological analogue of [[Virtue Ethics\|Virtue Ethics]].
@@ -17,3 +16,5 @@ A related are of study is vice epistemology, which studies epistemic vices. Exam
 - Dogmatism
 - Close-mindedness
 - Hubris
+- Intellectual Laziness
+- Incuriosity

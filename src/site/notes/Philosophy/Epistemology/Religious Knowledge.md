@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/philosophy/epistemology/religious-knowledge/"}
 ---
 
-
 #Philosophy/Epistemology 
 
 Religious knowledge refers to knowing things such as existence and nature of a deity. Unlike other forms of knowledge, the existence of religious knowledge is controversial.

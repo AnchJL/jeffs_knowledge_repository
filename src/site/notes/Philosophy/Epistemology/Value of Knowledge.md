@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/philosophy/epistemology/value-of-knowledge/"}
 ---
 
-
 #Philosophy/Epistemology 
 ## The Instrumental Value of Knowledge
 

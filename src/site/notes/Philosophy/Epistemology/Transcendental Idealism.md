@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/philosophy/epistemology/transcendental-idealism/"}
 ---
 
-
 #Philosophy/Epistemology 
 #Philosophy/Mind
 

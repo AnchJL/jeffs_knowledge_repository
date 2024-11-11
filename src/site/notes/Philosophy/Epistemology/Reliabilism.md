@@ -4,6 +4,7 @@
 
 
 #Philosophy/Epistemology
+
 After Alvin Goldman abandoned his [[Philosophy/Epistemology/Causal Theory of Knowledge\|Causal Theory of Knowledge]], he developed a new theory of knowledge known as reliabilism. According to reliabilism, an agent S knows proposition P if:
 1. P is true
 2. S believes P

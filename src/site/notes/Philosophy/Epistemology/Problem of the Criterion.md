@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/philosophy/epistemology/problem-of-the-criterion/"}
 ---
 
-
 #Philosophy/Epistemology 
 
 The problem of the criterion has been a philosophical subject that dates back to antiquity, it was popularized in the 20th century by the American philosopher, Roderick Chisholm. 

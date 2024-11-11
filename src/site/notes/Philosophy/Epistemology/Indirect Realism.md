@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/philosophy/epistemology/indirect-realism/"}
 ---
 
+#Philosophy/Epistemology 
+#Philosophy/Mind 
 
 Indirect realism is the position that our senses provide us with indirect knowledge of the world around us. That is to say that we can only infer how the world actually is from perceiving the world in how it appears.
 ## Arguments for Indirect Realism
@@ -26,6 +28,3 @@ One problem with indirect realism is that if all we can perceive is our impressi
 ### No Distinction between Primary and Secondary Qualities
 
 One argument against indirect realism is to counter the distinction between primary and secondary qualities.
-
-#Philosophy/Epistemology 
-#Philosophy/Mind

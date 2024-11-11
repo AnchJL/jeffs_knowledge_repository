@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/philosophy/epistemology/reformed-epistemology/"}
 ---
 
-
 #Philosophy/Epistemology 
 #Philosophy/Religion 
 

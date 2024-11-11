@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/philosophy/epistemology/relevant-alternatives-theory-of-knowledge/"}
 ---
 
-
 #Philosophy/Epistemology 
 
  The relevant alternatives theory of knowledge is an account of knowledge that first emerged during the early 1970s. According to the theory, a person knows proposition P if they can rule out all the relevant alternatives that would make P false. 

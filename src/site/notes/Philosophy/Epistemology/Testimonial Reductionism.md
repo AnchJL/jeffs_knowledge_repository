@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/philosophy/epistemology/testimonial-reductionism/"}
 ---
 
-
 #Philosophy/Epistemology 
 
 Testimonial reductionism is one of the solutions to the [[Philosophy/Epistemology/Testimony#The Problem with Testimony\|the problem of testimony]]. According to testimonial reductionism, you are justified in believing testimony if it is supported on non-testimonial grounds. As an example, Bob trusts his mom when she says that the local library is closed. Bob is justified in believing in the testimony of his mom because he has observed in the past that the testimony of his mom is often correct. 

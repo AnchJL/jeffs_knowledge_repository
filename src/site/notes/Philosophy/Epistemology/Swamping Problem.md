@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/philosophy/epistemology/swamping-problem/"}
 ---
 
-
 #Philosophy/Epistemology 
 
 At first glance, it may seem that the instrumental value of knowledge can be attained from *mere* true belief. If a true belief can help you fulfill your goals then it would seem that it is just as valuable as knowledge.
