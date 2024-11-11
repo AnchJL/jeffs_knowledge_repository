@@ -29,6 +29,7 @@ U
 
 </div></div>
 
+
 In the image above, adding set $A$ with set $B$ involves adding the middle part twice.
 ## Example:
 
