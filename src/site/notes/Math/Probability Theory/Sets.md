@@ -75,6 +75,7 @@ What taking the difference does it that you subtract from $A$ the elements it sh
 
 Other ways of expressing the difference between sets include "$B$ subtracted from $A$" or "Relative complement of $B$ in $A$" (i.e. what are the elements not in $B$ that are but are in $A$). The Venn diagram below illustrates what $A-B$ looks like:
 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
