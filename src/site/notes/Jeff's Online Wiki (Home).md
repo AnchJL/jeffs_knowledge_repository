@@ -5,10 +5,10 @@
 Hi there! Welcome to my digital garden. I like to take notes on a wide variety of topics. Browse to your heart's content!
 
 # Cuisine
-
+___
 [[Cuisine/Italian Cuisine\|Italian Cuisine]]
 # Math
-
+---
  [[Math/Algebra MOC\|Algebra MOC]]
  [[Math/Arithmetic MOC\|Arithmetic MOC]]
  [[Math/Calculus MOC\|Calculus MOC]]
@@ -18,7 +18,7 @@ Hi there! Welcome to my digital garden. I like to take notes on a wide variety o
  [[Math/Statistics MOC\|Statistics MOC]]
  [[Math/Trigonometry MOC\|Trigonometry MOC]]
 # Philosophy
-
+---
 [[Philosophy/Ethics/Ethics MOC\|Ethics MOC]]
 [[Philosophy/Epistemology/Epistemology MOC\|Epistemology MOC]]
 [[Logic\|Logic]]
