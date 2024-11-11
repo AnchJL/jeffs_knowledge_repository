@@ -7,7 +7,7 @@ Hi there! Welcome to my digital garden. I like to take notes on a wide variety o
 # Cuisine
 
 [[Cuisine/Italian Cuisine\|Italian Cuisine]]
-## Math
+# Math
 
  [[Math/Algebra MOC\|Algebra MOC]]
  [[Math/Arithmetic MOC\|Arithmetic MOC]]
@@ -17,12 +17,11 @@ Hi there! Welcome to my digital garden. I like to take notes on a wide variety o
  [[Math/Probability Theory/Probability Theory MOC\|Probability Theory MOC]]
  [[Math/Statistics MOC\|Statistics MOC]]
  [[Math/Trigonometry MOC\|Trigonometry MOC]]
-## Philosophy
+# Philosophy
 
 [[Philosophy/Ethics/Ethics MOC\|Ethics MOC]]
 [[Philosophy/Epistemology/Epistemology MOC\|Epistemology MOC]]
 [[Logic\|Logic]]
 [[Metaphysics MOC\|Metaphysics MOC]]
 
-## Photography
 
