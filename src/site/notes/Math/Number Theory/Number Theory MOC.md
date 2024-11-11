@@ -6,6 +6,7 @@
 
 [[Math/Number Theory/What is Number Theory\|What is Number Theory]]
 [[Math/Number Theory/Divisibility\|Divisibility]]
+[[Math/Number Theory/Division Algorithm\|Division Algorithm]]
 [[Math/Number Theory/Prime Numbers\|Prime Numbers]]
 [[Math/Number Theory/Euclid's Theorem\|Euclid's Theorem]]
 [[Math/Number Theory/Greatest Common Divisor\|Greatest Common Divisor]]
