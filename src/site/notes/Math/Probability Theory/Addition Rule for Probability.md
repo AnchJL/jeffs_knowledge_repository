@@ -11,7 +11,7 @@ P(A\cup B)=P(A)+P(B)-P(A\cap B)
 $$
 The reason why we cannot just add $P(A)$ and $P(B)$ because there is a subset of the sample space where $A$ and $B$ can occur simultaneously, and so adding the probability of $A$ with the probability of $B$ would double count the probability of $A\cap B$ twice. To remove the effect of double counting, we need to subtract the sum $P(A)+P(B)$ by $P(A\cap B)$.
 
-![[Excalidraw/Double Counting in Union Operations.excalidraw]]
+![[Excalidraw/Double Counting in Union Operations.excalidraw\|Excalidraw/Double Counting in Union Operations.excalidraw]]
 
 In the image above, adding set $A$ with set $B$ involves adding the middle part twice.
 ## Example:
