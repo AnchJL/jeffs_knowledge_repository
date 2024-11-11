@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/philosophy/epistemology/epistemic-rationality/"}
+---
+
+#Philosophy/Epistemology 
+
+Rationality is the concept of being guided by reasons. There are two broad categories of rationality, each with different goals: theoretical vs practical. Theoretical rationality concerns the use of reasons to guide our beliefs. Meanwhile, practical rationality concerns the use of reasons in guiding our decisions and actions.
+
+A subcategory of theoretical rationality is epistemic rationality, which aims to use reasons to guide us towards true beliefs. There are also theoretical forms of rationality that are not epistemic in nature. Consider the example where Bob is being chased by a bear and must jump across a dangerous ravine to escape from his pursuer. There is nothing to suggest that the belief that he can successfully jump across the ravine is true. However, doubting this belief will affect Bob’s confidence and decrease the chances of him successfully making the jump. Despite having no evidence that he can make the jump, Bob still believes that he can make it and this confidence allows him to successfully leap across the ravine. Although it was not epistemically rational for Bob to form that belief, it was still rational for him to believe in it since it helped him achieve his goal of survival. In this example, Bob had prudential reasons for believing in himself but lacked epistemic reasons. Another example that illustrates the difference between epistemic and non-epistemic rationality is [[Pascal’s Wager\|Pascal’s Wager]].
+
+Although the goal of epistemic rationality is forming true beliefs, this goal is rather broad and does not provide us with much direction. It needs to be explained *how* epistemic rationality relates to the goal of forming true beliefs. One way of understanding this goal is that epistemic rationality should strive to maximize the number of true beliefs you hold. On this account, a jury that determines a defendant’s guilt by evaluating evidence is rational while a jury that determines the verdict through a coin flip is irrational since the former is more likely to arrive at the correct belief and will maximize the number of correct beliefs they have in the long run.
+
+A problem with this formulation of epistemic rationality is that it implies you should have as many insignificant but true beliefs as possible. For example, it would mean that knowing every number in a phone book is rational even though this type of knowledge has little to no consequence. Another issue with this conception of rationality is that it implies you should have every possible belief, even ones that contradict each other, to maximize the number of true beliefs you possess.
+
+A different conception of epistemic rationality is that it should be based on minimizing the number of false beliefs you hold. A problem with this formulation is that it implies we should hold believe in very few things, or in nothing at all, thus leading us towards [[Philosophy/Epistemology/Skepticism\|radical skepticism]].
