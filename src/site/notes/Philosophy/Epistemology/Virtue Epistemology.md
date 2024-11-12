@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Virtue Epistemology/","created":"2024-07-13T21:50:48.757-04:00","updated":"2024-11-11T00:50:10.612-05:00"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Virtue Epistemology/","created":"2024-07-13T21:50:48.757-04:00","updated":"2024-11-11T21:15:47.141-05:00"}
 ---
 
 #Philosophy/Epistemology 

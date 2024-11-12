@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Value of Knowledge/","created":"2024-06-30T21:44:26.607-04:00","updated":"2024-11-11T00:49:38.934-05:00"}
+{"dg-publish":true,"permalink":"/Philosophy/Epistemology/Value of Knowledge/","created":"2024-06-30T21:44:26.607-04:00","updated":"2024-11-11T21:15:59.150-05:00"}
 ---
 
 #Philosophy/Epistemology 
