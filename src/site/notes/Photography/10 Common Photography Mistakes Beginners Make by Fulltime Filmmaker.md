@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Photography/10 Common Photography Mistakes Beginners Make by Fulltime Filmmaker/","created":"2024-08-18T21:14:18.145-04:00","updated":"2024-11-10T23:08:08.543-05:00"}
+{"dg-publish":true,"permalink":"/Photography/10 Common Photography Mistakes Beginners Make by Fulltime Filmmaker/","created":"2024-08-18T21:14:18.145-04:00","updated":"2024-11-11T21:51:15.922-05:00"}
 ---
 
 
 Weblink: https://www.youtube.com/watch?v=efquOf0KKaI&list=TLPQMTgwODIwMjTmOG7Yy_j5jQ&index=2
 
-# Mistake #1: Focusing Too Much on the Gear
+# Mistake \#1: Focusing Too Much on the Gear
 
 People get so hung up on gear and end up not taking photos because they believe their gear is not good enough.
 
@@ -13,7 +13,7 @@ Focus on learning and how to best use the gear you already have.
 
 You can slowly upgrade your gear over time.
 
-# Mistake #2: Using the Wrong Camera Settings
+# Mistake \#2: Using the Wrong Camera Settings
 
 Mistakes that happen with shooting modes
 - Don't be afraid to try other modes
@@ -41,7 +41,7 @@ Suppose you have an underexposed photo or have the wrong colour balance.
 - Shooting raw photos can allow you to adjust white balance
 - Cannot adjust shutter speed, aperture, and focus
 
-# Mistake #3: Bad Composition
+# Mistake \#3: Bad Composition
 
 Knowing how to properly compose an image will vastly improve it
 
@@ -70,7 +70,7 @@ Lack of depth
 - Be creative with your camera angles
 - This mistake relates to choice of lenses
 
-# Mistake #4: Bad Lighting
+# Mistake \#4: Bad Lighting
 
 Good photographers are able to use and shape light
 
@@ -92,7 +92,7 @@ In studios, use a rim or hair light to avoid having the subject blending in with
 
 ![Pasted image 20240819020500.png](/img/user/Photography/Pasted%20image%2020240819020500.png)
 
-# Mistake #5: Soft Focus
+# Mistake \#5: Soft Focus
 
 Focus is an element of composition
 
@@ -110,7 +110,7 @@ If your host is out of focus, it will be unusable
 	- Allows you to seamlessly switch focus modes between servo and one-shot
 	- Keeping the button pressed turns on servo auto-focus. Tapping the button once switches to one shot and locks the focus in on still subjects
 
-# Mistake #6: Lack of Movement or Action
+# Mistake \#6: Lack of Movement or Action
 
 Capturing movement, emotion, and action are what create a good photo
 
@@ -122,7 +122,7 @@ Don't take photos just for the sake of it. Look for impactful moments to take pi
 
 You can use long-exposure photography to create movement in your photo (i.e. capture motion blur)
 
-# Mistake #7: Using the Wrong Lens
+# Mistake \#7: Using the Wrong Lens
 
 Using a wide-angled lens on a close-up of someone's face
 - See the two pictures below for a comparison of a up close picture of someone's face using a 16mm lens vs 100mm lens:
@@ -137,7 +137,7 @@ For sports photography, do not use a wide or standard lens. Use a telephoto lens
 - Allows you to zoom in when they are on the other side of the field
 - This of course, depends on the sport, as some lenses are better suited to some sports but not others
 
-# Mistake #8: Bad Posing
+# Mistake \#8: Bad Posing
 
 Make sure your subjects are comfortable in their poses
 
@@ -155,8 +155,8 @@ Guiding is generally better than posing
 
 Have a good eye for detecting when your subjects are feeling stiff and uncomfortable
 
-# Mistake #9: Overediting
-\
+# Mistake \#9: Overediting
+
 It is very rare for a photo to be perfect prior to any processing
 
 Signs you may be over processing your photos
@@ -172,7 +172,7 @@ Avoid making extreme changes to the following:
 
 Something can be "eye-catching" for the wrong reasons
 
-# Mistake #10: Not Enough Reps
+# Mistake \#10: Not Enough Reps
 
 Focus more time on creating than consuming
 

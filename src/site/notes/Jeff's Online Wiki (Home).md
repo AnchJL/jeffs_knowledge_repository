@@ -14,7 +14,7 @@ ___
  [[Math/Calculus MOC\|Calculus MOC]]
  [[Math/Geometry MOC\|Geometry MOC]]
  [[Math/Number Theory MOC\|Number Theory MOC]]
- [[Math/Probability Theory/Probability Theory MOC\|Probability Theory MOC]]
+ [[Math/Probability Theory MOC\|Probability Theory MOC]]
  [[Math/Statistics MOC\|Statistics MOC]]
  [[Math/Trigonometry MOC\|Trigonometry MOC]]
 # Philosophy

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Statistics/Binomial Distribution/","created":"2024-11-10T15:24:54.619-05:00","updated":"2024-11-10T23:55:49.094-05:00"}
+{"dg-publish":true,"permalink":"/Math/Statistics/Binomial Distribution/","created":"2024-11-10T15:24:54.619-05:00","updated":"2024-11-11T21:51:37.242-05:00"}
 ---
 
 
@@ -40,7 +40,7 @@ We know that $X$ is a binomial variable because:
 
 We can map out all the possible dice rolls in the table below:
 
-| Combination Number | Die #1  | Die #2  | Die #3  | Die #4  | Probability                                         |
+| Combination Number | Die \#1 | Die \#2 | Die \#3 | Die \#4 | Probability                                         |
 | ------------------ | ------- | ------- | ------- | ------- | --------------------------------------------------- |
 | 1                  | One     | One     | One     | Not One | $$\frac{1}{6}*\frac{1}{6}*\frac{1}{6}*\frac{5}{6}$$ |
 | 2                  | One     | One     | Not One | One     | $$\frac{1}{6}*\frac{1}{6}*\frac{5}{6}*\frac{1}{6}$$ |
