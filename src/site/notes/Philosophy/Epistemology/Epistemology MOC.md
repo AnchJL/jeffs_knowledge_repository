@@ -46,5 +46,5 @@
 [[Philosophy/Epistemology/Religious Knowledge\|Religious Knowledge]]
 	[[Philosophy/Epistemology/Evidentiary Challenge to Religious Knowledge\|Evidentiary Challenge to Religious Knowledge]]
 	[[Philosophy/Epistemology/Reformed Epistemology\|Reformed Epistemology]]
-[[Applied Epistemology\|Applied Epistemology]]
+[[Philosophy/Epistemology/Applied Epistemology\|Applied Epistemology]]
 

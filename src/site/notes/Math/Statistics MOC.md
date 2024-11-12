@@ -15,7 +15,7 @@
 [[Types of Graphs\|Types of Graphs]]
 [[Math/Statistics/Normal Distribution\|Normal Distribution]]
 [[Math/Statistics/Binomial Distribution\|Binomial Distribution]]
-[[Poisson Distribution\|Poisson Distribution]]
+[[Math/Statistics/Poisson Distribution\|Poisson Distribution]]
 [[Math/Statistics/Z-Score\|Z-Score]]
 [[Confidence Interval\|Confidence Interval]]
 [[Hypothesis Testing\|Hypothesis Testing]]
