@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Statistics/Variance and Standard Deviation/","created":"2024-11-07T00:18:19.029-05:00","updated":"2024-11-10T22:59:04.993-05:00"}
+{"dg-publish":true,"permalink":"/Math/Statistics/Variance and Standard Deviation/","created":"2024-11-07T00:18:19.029-05:00","updated":"2024-11-12T00:59:08.494-05:00"}
 ---
 
 
@@ -7,7 +7,10 @@
 
 *Variance* and *standard deviation* are both measures the spread of the values in a sample or population around the [[Math/Statistics/Mean, Median, and Mode#Mean\|mean]].
 
-The variance of a sample, denoted $\sigma^2$, can be found using the following formula:$$\sigma^2=\sum_i^n\frac{(x_i-\bar{x})^2}{n-1}$$Where $\bar{x}$ is the mean of the sample, $x_i$ represent the different values in the sample, and $n$ is the sample size.
+The variance of a sample, denoted $\sigma^2$, can be found using the following formula:
+$$
+\sigma^2=\sum_i^n\frac{(x_i-\bar{x})^2}{n-1}
+$$Where $\bar{x}$ is the mean of the sample, $x_i$ represent the different values in the sample, and $n$ is the sample size.
 
 In contrast, the variance of the population can be found using a slightly different formula:
 $$

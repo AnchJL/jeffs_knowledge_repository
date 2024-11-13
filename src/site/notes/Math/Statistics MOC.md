@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Statistics MOC/","created":"2024-11-09T13:43:28.268-05:00","updated":"2024-11-10T23:05:30.953-05:00"}
+{"dg-publish":true,"permalink":"/Math/Statistics MOC/","created":"2024-11-09T13:43:28.268-05:00","updated":"2024-11-12T01:00:41.805-05:00"}
 ---
 
 
@@ -17,6 +17,7 @@
 [[Math/Statistics/Binomial Distribution\|Binomial Distribution]]
 [[Math/Statistics/Poisson Distribution\|Poisson Distribution]]
 [[Math/Statistics/Z-Score\|Z-Score]]
+[[Sampling Distribution\|Sampling Distribution]]
 [[Confidence Interval\|Confidence Interval]]
 [[Hypothesis Testing\|Hypothesis Testing]]
 [[Correlation vs Causation\|Correlation vs Causation]]
