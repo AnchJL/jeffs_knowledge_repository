@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Statistics/Z-Score/","created":"2024-11-09T17:06:30.024-05:00","updated":"2024-11-10T22:59:14.537-05:00"}
+{"dg-publish":true,"permalink":"/Math/Statistics/Z-Score/","created":"2024-11-09T17:06:30.024-05:00","updated":"2024-11-16T20:54:30.704-05:00"}
 ---
 
 
@@ -11,7 +11,7 @@ z=\frac{x-\mu}{\sigma}
 $$
 Another way to interpret the z-score is that it measures the number of [[Math/Statistics/Variance and Standard Deviation\|standard deviations]] a particular data point is above or below the sample mean. For example, a z-score of -2 means that a particular value has a distance of two standard deviations below the sample mean.
 
-A z-score is important in [[hypothesis testing\|hypothesis testing]] determining [[Confidence Interval\|confidence intervals]].
+A z-score is important in [[Math/Statistics/Hypothesis Testing\|Hypothesis Testing]] determining [[Math/Statistics/Confidence Interval\|confidence intervals]].
 
 ## Z-Score Probabilities Table
 Below is a table displaying the area or probability of being on the *right-side* of a standardized [[Math/Statistics/Normal Distribution\|normal distribution]] based on the z-score:
