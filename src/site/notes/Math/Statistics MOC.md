@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Statistics MOC/","created":"2024-11-09T13:43:28.268-05:00","updated":"2024-11-12T01:00:41.805-05:00"}
+{"dg-publish":true,"permalink":"/Math/Statistics MOC/","created":"2024-11-09T13:43:28.268-05:00","updated":"2024-11-17T02:23:53.405-05:00"}
 ---
 
 
@@ -23,4 +23,5 @@
 [[Correlation vs Causation\|Correlation vs Causation]]
 [[Math/Statistics/Types of Statistical Biases\|Types of Statistical Biases]]
 [[Regression Analysis\|Regression Analysis]]
+[[Simpson's Paradox\|Simpson's Paradox]]
 

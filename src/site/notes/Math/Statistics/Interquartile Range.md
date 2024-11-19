@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Statistics/Interquartile Range/","created":"2024-11-07T22:55:52.188-05:00","updated":"2024-11-11T00:04:14.886-05:00"}
+{"dg-publish":true,"permalink":"/Math/Statistics/Interquartile Range/","created":"2024-11-07T22:55:52.188-05:00","updated":"2024-11-17T01:32:16.870-05:00"}
 ---
 
 
 #Math/Statistics 
 
-The interquartile range is another measure of the spread of data in a sample besides the [[Math/Statistics/Variance and Standard Deviation\|Variance and Standard Deviation]]. The interquartile range measure the spread by taking the difference between third and first quartile. In more mathematical terms:
+The interquartile range is another measure of the spread of data in a sample besides the [[Math/Statistics/Variance and Standard Deviation\|Variance and Standard Deviation]]. The interquartile range measure the spread by taking the difference between third and first quartile (i.e. the 25th and 75th [[Math/Statistics/Percentiles\|percentiles]]). In more mathematical terms:
 $$
 \text{IQR}=Q_3-Q_1
 $$
@@ -14,8 +14,8 @@ $Q_3$ represents the value that is larger than 75% of all the values in a sample
 ## Example
 
 Find the interquartile range following sample: $\{23,4,6,11,3,15,14,13\}$
-1. First, rearrange the values from least to greatest: 3,4,6,11,13,14,15,23
-2. To find the 
+
+First, rearrange the values from least to greatest: 3,4,6,11,13,14,15,23
 
 | $i$ | $x_i$ |
 | --- | ----- |
