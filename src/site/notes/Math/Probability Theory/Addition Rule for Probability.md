@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Probability Theory/Addition Rule for Probability/","created":"2024-11-04T20:19:24.333-05:00","updated":"2024-11-10T23:49:24.488-05:00"}
+{"dg-publish":true,"permalink":"/Math/Probability Theory/Addition Rule for Probability/","created":"2024-11-04T20:19:24.333-05:00","updated":"2024-11-19T00:56:20.914-05:00"}
 ---
 
 
@@ -54,3 +54,7 @@ Thus, in the case of mutually exclusive events:
 $$
 P(A\cup B)=P(A)+P(B)
 $$
+
+> [!Abstract] 
+> If $A$ and $B$ are **mutually exclusive events**, then $P(A\cup B)=P(A)+P(B)$
+> If $A$ and $B$ are **not mutually exclusive** events then $P(A\cup B)=P(A)+P(B)-P(A\cap B)$

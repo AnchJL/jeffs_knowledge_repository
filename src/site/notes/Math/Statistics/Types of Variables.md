@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Statistics/Types of Variables/","created":"2024-11-09T20:43:29.779-05:00","updated":"2024-11-10T23:56:35.645-05:00"}
+{"dg-publish":true,"permalink":"/Math/Statistics/Types of Variables/","created":"2024-11-09T20:43:29.779-05:00","updated":"2024-11-19T00:33:24.547-05:00"}
 ---
 
 
@@ -19,18 +19,19 @@ Numerical (or quantitative) variables are variables that can be assigned a numer
 
 Discrete variables can only be whole numbers. For these types of variables, it would not make sense to have a decimal value.
 
-Examples of discrete variables include:
-- Calendar Years
-- Number of people
-- Roll of a die
+> [!Example] Examples of discrete variables include:
+> - Calendar Years
+> - Number of people
+> - Roll of a die
+
 ### Continuous Variables
 
 Continuous variables can take on any real number, including decimals.
 
-Examples of continuous variables include:
-- Income
-- Height
-- Weight
+> [!Example] Examples of continuous variables include:
+> - Income
+> - Height
+> - Weight
 
 ## Categorical Variable
 
@@ -40,15 +41,15 @@ Categorical (or qualitative) variables cannot be assigned a numerical value. Ins
 
 Ordinal variables represent groups that have a natural order to them.
 
-Examples of ordinal variables:
-- Education level (high school, bachelors, masters, doctorate, post-doctorate)
-- Socioeconomic class (working class, middle class, upper class)
+> [!Example] Examples of ordinal variables:
+> - Education level (high school, bachelors, masters, doctorate, post-doctorate)
+> - Socioeconomic class (working class, middle class, upper class)
 
 ### Nominal Variables
 
 Nominal variables represent groups that do not have a natural order.
 
-Examples of nominal variables include:
-- Gender
-- Political ideology
-- City
+> [!Example] Examples of nominal variables include:
+> - Gender
+> - Political ideology
+> - City

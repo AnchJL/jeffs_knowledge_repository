@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Statistics/Variance and Standard Deviation/","created":"2024-11-07T00:18:19.029-05:00","updated":"2024-11-12T00:59:08.494-05:00"}
+{"dg-publish":true,"permalink":"/Math/Statistics/Variance and Standard Deviation/","created":"2024-11-07T00:18:19.029-05:00","updated":"2024-11-19T00:34:12.263-05:00"}
 ---
 
 
@@ -28,19 +28,18 @@ While the formula for the standard deviation of the population is:
 $$
 \sigma=\sum_i^n\sqrt\frac{(x_i-\mu)^2}{n}
 $$
-## Example
 
-Suppose you have the following sample: 1,2,3,4,5,6,7,8,9,10. Find the standard deviation of the sample.
-1. Just from looking at the sample, we can see that it has a sample size of $n=10$
-2. Now we need to look for the mean.
-$$
-\bar{x}=\frac{1+2+3+4+5+6+7+8+9+10}{10}=\frac{55}{10}=5.5
-$$
-3. Given that we know that mean and sample size, we can now find the standard deviation:
-$$
-\begin{align}
-\sigma&=\sqrt{\frac{(1-5.5)^2+(2-5.5)^2+(3-5.5)^2+(4-5.5)^2+(5-5.5)^2+(6-5.5)^2+(7-5.5)^2+(8-5.5)^2+(9-5.5)^2+(10-5.5)^2}{10-1}}\\\\
-&=\sqrt{\frac{82.5}{9}}\\\\
-&\approx9.167
-\end{align}
-$$
+> [!Example] Suppose you have the following sample: 1,2,3,4,5,6,7,8,9,10. Find the standard deviation of the sample.
+> 1. Just from looking at the sample, we can see that it has a sample size of $n=10$
+> 2. Now we need to look for the mean.
+> $$
+> \bar{x}=\frac{1+2+3+4+5+6+7+8+9+10}{10}=\frac{55}{10}=5.5
+> $$
+> 3. Given that we know that mean and sample size, we can now find the standard deviation:
+> $$
+> \begin{align}
+> \sigma&=\sqrt{\frac{(1-5.5)^2+(2-5.5)^2+(3-5.5)^2+(4-5.5)^2+(5-5.5)^2+(6-5.5)^2+(7-5.5)^2+(8-5.5)^2+(9-5.5)^2+(10-5.5)^2}{10-1}}\\\\
+> &=\sqrt{\frac{82.5}{9}}\\\\
+> &\approx9.167
+> \end{align}
+> $$
