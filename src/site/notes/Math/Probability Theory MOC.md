@@ -12,7 +12,7 @@
 [[Math/Probability Theory/Conditional  Probability\|Conditional  Probability]]
 [[Math/Probability Theory/Expected Value\|Expected Value]]
 [[Math/Probability Theory/Experimental Probability\|Experimental Probability]]
-[[Law of Large Numbers\|Law of Large Numbers]]
+[[Math/Probability Theory/Law of Large Numbers\|Law of Large Numbers]]
 [[Math/Statistics/Normal Distribution\|Normal Distribution]]
 [[Math/Statistics/Binomial Distribution\|Binomial Distribution]]
 [[Math/Probability Theory/Bayes' Theorem\|Bayes' Theorem]]

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Number Theory/Fermat's Last Theorem/","created":"2024-10-13T01:48:35.644-04:00","updated":"2024-11-10T21:04:22.265-05:00"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Fermat's Last Theorem/","created":"2024-10-13T01:48:35.644-04:00","updated":"2024-11-19T01:23:03.254-05:00"}
 ---
 
 
 #Math/NumberTheory 
-Fermat's last theorem used to be one of the most famous unsolved problems in math.
 
+Fermat's last theorem used to be one of the most famous unsolved problems in math.
 $$
 \begin{align}
 a^n+b^n=c^n

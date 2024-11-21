@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Probability Theory/Bayes' Theorem/","created":"2024-11-04T23:33:00.638-05:00","updated":"2024-11-10T21:50:15.739-05:00"}
+{"dg-publish":true,"permalink":"/Math/Probability Theory/Bayes' Theorem/","created":"2024-11-04T23:33:00.638-05:00","updated":"2024-11-20T02:00:13.993-05:00"}
 ---
 
 
@@ -17,3 +17,4 @@ Recall from the formula for [[Math/Probability Theory/Multiplication Rule for Pr
 $$
 P(A|B)=\frac{P(A)\cdot P(B|A)}{P(B)}
 $$
+
