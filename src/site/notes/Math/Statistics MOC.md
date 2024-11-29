@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Statistics MOC/","created":"2024-11-09T13:43:28.268-05:00","updated":"2024-11-17T02:23:53.405-05:00"}
+{"dg-publish":true,"permalink":"/Math/Statistics MOC/","created":"2024-11-09T13:43:28.268-05:00","updated":"2024-11-24T00:02:53.698-05:00"}
 ---
 
 
@@ -18,6 +18,7 @@
 [[Math/Statistics/Poisson Distribution\|Poisson Distribution]]
 [[Math/Statistics/Z-Score\|Z-Score]]
 [[Math/Statistics/Sampling Distribution\|Sampling Distribution]]
+[[Math/Statistics/Central Limit Theorem\|Central Limit Theorem]]
 [[Math/Statistics/Confidence Interval\|Confidence Interval]]
 [[Math/Statistics/Hypothesis Testing\|Hypothesis Testing]]
 [[Correlation vs Causation\|Correlation vs Causation]]

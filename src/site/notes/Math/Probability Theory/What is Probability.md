@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Probability Theory/What is Probability/","created":"2024-11-03T01:22:52.213-05:00","updated":"2024-11-10T21:48:48.836-05:00"}
+{"dg-publish":true,"permalink":"/Math/Probability Theory/What is Probability/","created":"2024-11-03T01:22:52.213-05:00","updated":"2024-11-28T21:23:59.026-05:00"}
 ---
 
 
@@ -18,7 +18,7 @@ In the case of the coin flip:
 $$
 \therefore P(H)=\frac{1}{2}=50\%
 $$
-Another way to conceptualize probability is to run an event numerous times and to find the proportion of those recurring events in which your conditions are met. To use the coin example: 50% represents the proportion of coin flips that would land on heads if I flipped the coin many times repeatedly. The greater number of times I run the experiment (i.e. flip the coin), the closer the proportion of times it lands on heads will be 50%.
+Another way to conceptualize probability is to run an event numerous times and to find the proportion of those recurring events in which your conditions are met. To use the coin example: 50% represents the proportion of coin flips that would land on heads if I flipped the coin many times repeatedly. The greater number of times I run the experiment (i.e. flip the coin), the closer the proportion of times it lands on heads will be 50%. This is known as the [[Math/Probability Theory/Interpretations of Probability#Frequentist Interpretation\|frequentist interpretation of probability]].
 
 The set of possible outcomes is known as the *sample space*, and the number of possible outcomes is the size of the sample space.
 

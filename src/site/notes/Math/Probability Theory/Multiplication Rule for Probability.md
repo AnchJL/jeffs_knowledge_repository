@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Probability Theory/Multiplication Rule for Probability/","created":"2024-11-04T21:52:56.788-05:00","updated":"2024-11-10T21:49:14.738-05:00"}
+{"dg-publish":true,"permalink":"/Math/Probability Theory/Multiplication Rule for Probability/","created":"2024-11-04T21:52:56.788-05:00","updated":"2024-11-28T21:14:20.100-05:00"}
 ---
 
 
 #Math/Probability 
 
-The multiplication rule for probability states that when both $A$ and $B$ are [[independent events\|independent events]], then the probability of both events happening at the same time is the product of the probability of $A$ and the probability of $B$. In other words:
+The multiplication rule for probability states that when both $A$ and $B$ are independent events (meaning the occurrence of one does not affect the probability of another), then the probability of both events happening at the same time is the product of the probability of $A$ and the probability of $B$. In other words:
 
 If $A$ and $B$ are independent of each other:
 $$

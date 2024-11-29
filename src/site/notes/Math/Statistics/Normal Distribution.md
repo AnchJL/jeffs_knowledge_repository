@@ -1,12 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Statistics/Normal Distribution/","created":"2024-11-09T22:56:33.211-05:00","updated":"2024-11-11T21:39:51.991-05:00"}
+{"dg-publish":true,"permalink":"/Math/Statistics/Normal Distribution/","created":"2024-11-09T22:56:33.211-05:00","updated":"2024-11-28T22:17:31.784-05:00"}
 ---
-
 
 #Math/Statistics 
 
-A normal distribution refers to the distribution of a continuous variable where.
+A normal distribution refers to the distribution of a continuous variable that has the following function:
 
+$$
+f(x|\mu,\sigma)=\frac{1}{\sqrt{2\pi\sigma^2}}e^{-\frac{(x-\mu)^2}{2\sigma^2}}
+$$
+
+> [!Info] The normal distribution has the following properties
+> - Shaped like a bell
+> - Centred around the mean and median
+> - Symmetrical
+> - Highest probability (i.e. the peak) is the mode
+> - Fully characterized by the mean and standard deviation
+> - Follows the **empirical rule**
+ 
 ## Empirical Rule
 
 The *Empirical Rule* states that for normal distributions:

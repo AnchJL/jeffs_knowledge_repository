@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Algebra/Quadratic Equation (WIP)/","created":"2024-10-02T01:32:48.395-04:00","updated":"2024-11-11T21:47:27.575-05:00"}
+{"dg-publish":true,"permalink":"/Math/Algebra/Quadratic Equation (WIP)/","created":"2024-10-02T01:32:48.395-04:00","updated":"2024-11-23T00:30:44.758-05:00"}
 ---
 
 #Math/Algebra 
@@ -15,7 +15,6 @@ This form is called the vertex form because $(h,k)$ form the coordinates of the 
 ## Standard Form
 
 $y=ax^2+bx+c$
-
 ## Factored Form
 
 $y=a(x-r_1)(x-r_2)$

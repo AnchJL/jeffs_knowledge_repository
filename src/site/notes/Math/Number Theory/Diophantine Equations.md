@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Number Theory/Diophantine Equations/","created":"2024-10-26T01:51:11.955-04:00","updated":"2024-11-10T21:33:20.481-05:00"}
+{"dg-publish":true,"permalink":"/Math/Number Theory/Diophantine Equations/","created":"2024-10-26T01:51:11.955-04:00","updated":"2024-11-23T17:28:24.826-05:00"}
 ---
 
 
@@ -36,16 +36,16 @@ $\Rightarrow d|(ax+by)$
 $\Rightarrow d|c$
 Given $a$, $b$, and $c$ are natural numbers, the equations $ax+by=c$ has integer solutions if and only if GCD($a$,$b$)|$c$. In other words, there is a solution if $c$ is a multiple of GCD($a$,$b$).
 
-## Example 1:
+> [!Example] Example 1
+ Solve $3x+6y=2$
+> $$
+> \begin{align}
+> &\text{GCD}(3,6)=3\neq2\\\\
+> &\because 2\neq\text{GCD}(3,6)\\\\
+> &\therefore \text{There is no solution for }x,y\in\mathbb{N}
+> \end{align}
+> $$
 
-Solve $3x+6y=2$
-$$
-\begin{align}
-&\text{GCD}(3,6)=3\neq2\\\\
-&\because 2\neq\text{GCD}(3,6)\\\\
-&\therefore \text{There is no solution for }x,y\in\mathbb{N}
-\end{align}
-$$
 ## Example 2:
 
 Solve $10x+12y=4$
