@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Statistics/Sampling Distribution/","created":"2024-11-12T01:00:48.877-05:00","updated":"2024-11-17T00:26:09.685-05:00"}
+{"dg-publish":true,"permalink":"/Math/Statistics/Sampling Distribution/","created":"2024-11-12T01:00:48.877-05:00","updated":"2024-12-01T18:22:41.399-05:00"}
 ---
 
 #Math/Statistics 
@@ -14,7 +14,7 @@ The *standard error* is the [[Math/Statistics/Variance and Standard Deviation\|s
 $$
 \text{SE}=\frac{\sigma}{\sqrt{n}}
 $$
-Increasing the size of each sample reduces the standard error of the sampling distribution.
+Increasing the size of each sample reduces the standard error of the sampling distribution. This results in a taller and narrower distribution curve.
 ## Example
 Example: say we have a population of three billiard balls numbered 1, 2, and 3. We know the mean of the population is $\frac{1+2+3}{3}=2$. We can also find the mean by taking multiple samples of two billiard balls to estimate the population mean. 
 
