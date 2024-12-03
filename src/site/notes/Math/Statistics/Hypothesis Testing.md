@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Math/Statistics/Hypothesis Testing/","created":"2024-11-16T20:54:23.242-05:00","updated":"2024-12-02T20:59:21.508-05:00"}
+{"dg-publish":true,"permalink":"/Math/Statistics/Hypothesis Testing/","created":"2024-11-16T20:54:23.242-05:00","updated":"2024-12-03T02:01:30.489-05:00"}
 ---
 
 #Math/Statistics 
@@ -26,23 +26,32 @@ If your sample statistic was very unlikely to get given a true null hypothesis, 
 > 	- If we use a 99% confidence level ($1-\alpha=0.01$), then p-value needs to be less than 0.01 for us to reject the null hypothesis
 ## Example 1: Hypothesis Testing for Means
 
-Suppose we want to learn whether people who care about climate change spend less money buying gasoline than the average Canadian adult. From there, we develop the following research hypothesis: Canadians who care about climate change spend less per month on gasoline than the average Canadian adult. Given this research hypothesis, we derive the following hypothesis:
-- We draw a random sample of 100 people who donate to climate activist organizations, and we find that they spend a monthly average of $28.60 on gasoline.
-- In contrast, the average Canadian adult spends $31.11 per month on gasoline, with a standard deviation of $1.70.
+Suppose we want to learn whether people who care about climate change spend less money buying gasoline than the average Canadian adult. We draw a random sample of 100 people who donate to climate activist organizations, and we find that they spend a monthly average of $28.60 on gasoline. In contrast, the average Canadian adult spends $31.11 per month on gasoline, with a standard deviation of $1.70.
+
+**Step 1: Identify the Null Hypothesis and the Alternative Hypothesis**
+From there, we develop the following research hypothesis: Canadians who care about climate change spend less per month on gasoline than the average Canadian adult. Given this research hypothesis, we derive the following hypothesis:
 - Given our research hypothesis and these facts, we get the following hypotheses:
 	- Null hypothesis: Canadians who care about climate change spend the same amount of money per month on gasoline as the average adult in Canada 
 		- $H_0: \mu=31.11$
 	- Research/alternative hypothesis: Canadians who care about climate change spend less money per month on gasoline than the average adult in Canada 
 		- $H_a: \mu<31.11$
-		- Note that this research hypothesis requires a one-tailed test.
-- Find the test statistic:
+
+**Step 2: Identify Whether We are Using a Left, Right, or Two-Tail Test**
+Note that this research hypothesis requires a one-tailed test.
+
+**Step 3: Calculate the Relevant Test Statistic**
+Find the test statistic:
 $$
 \begin{align}
 Z=\frac{\bar{x}-\mu}{\text{SE}}=\frac{28.60-31.11}{\frac{1.70}{\sqrt{10,000}}}=-\frac{2.51}{0.17}\\
 =-14.7647
 \end{align}
 $$
+**Step 4: Calculate the P-Value**
+
 The probability (or p-value) of obtaining a z-score of -14.76 or lower is very small (almost 0). Whether we reject or fail to reject $H_0$ depends on our confidence level ($\alpha$ level): 
+
+**Step 5: Decide on whether to Reject the Null Hypothesis**
 
 If we were to use a 99% confidence level, our p-value is low enough for us to reject the null hypothesis that Canadians who care about climate change spend the same amount of money on gas as the average Canadian.
 
@@ -50,7 +59,7 @@ If we were to use a 99% confidence level, our p-value is low enough for us to re
 
 Suppose the government wanted to implement a sugar tax, but are unsure of whether it will be popular or unpopular. Researchers took a random sample of 40 people, and found that 56% of people disapprove of such a policy.
 
-**Step 1: Identify the Null Hypothesis**
+**Step 1: Identify the Null Hypothesis and the Alternative Hypothesis**
 
 Null hypothesis should be that the disapproval rating is 50% (the sugar tax is neither massively popular or unpopular). The alternative hypothesis is that that the disapproval rating is not equal to 50%. Thus:
 $$
@@ -85,7 +94,7 @@ $$
 Since 
 Let us choose an $\alpha$ level of 0.01. Given that our p-value is greater than $\alpha$ ($0.44487>0.01$), we cannot reject our null hypothesis with a confidence level of 99%.
 
-In other words, we fail to reject the idea that hypothesis that the sugar tax would be either massively popular or unpopular.
+In other words, we fail to reject the idea the hypothesis that the sugar tax would be either massively popular or unpopular.
 
 ## Type I and Type II Errors
 
